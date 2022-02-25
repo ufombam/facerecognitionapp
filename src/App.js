@@ -47,7 +47,7 @@ const particleOptions = {
   },
   particles: {
     color: {
-      value: "#ffffff",
+      value: "none",
     },
     links: {
       color: "#ffffff",
@@ -64,7 +64,7 @@ const particleOptions = {
       enable: true,
       outMode: "bounce",
       random: false,
-      speed: 3,
+      speed: 1,
       straight: false,
     },
     number: {
